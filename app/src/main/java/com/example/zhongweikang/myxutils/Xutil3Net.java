@@ -118,7 +118,7 @@ public class Xutil3Net extends Activity {
 
             @Override
             public void onWaiting() {
-
+              // 我是修改的
             }
 
             @Override
